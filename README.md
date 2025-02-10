@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Other Section
+
+Services and Testimonials Section
+
+## Animation to Notice
+
+There will be animation on every section except Footer
+
+## Theme Switcher for Dark and Light Mode
+
+This project default color is Dark Mode. To switch to light mode, you can click toogle Icon Button in the navbar
