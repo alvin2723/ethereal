@@ -41,7 +41,7 @@ Services and Testimonials Section
 
 ## Animation to Notice
 
-There will be animation on every section except Footer
+There will be animation on every section except Footer. The animation is using TailwindCSS and Framer Motion
 
 ## Theme Switcher for Dark and Light Mode
 
