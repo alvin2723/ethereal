@@ -9,7 +9,6 @@ import { MoonStar, Sun } from "lucide-react";
 const ThemeSwitcher = () => {
   const [mounted, setMounted] = useState(false);
   const { theme, setTheme } = useTheme();
-  console.log(theme);
   const toggleTheme = () => {
     setTheme(theme === "dark" ? "light" : "dark");
   };
